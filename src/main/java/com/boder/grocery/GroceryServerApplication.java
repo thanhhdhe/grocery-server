@@ -8,7 +8,7 @@ public class GroceryServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GroceryServerApplication.class, args);
-        System.out.print("Testing");
+        System.out.print("Testing Sonarqube");
     }
 
 }
